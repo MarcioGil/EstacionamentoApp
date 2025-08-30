@@ -42,7 +42,6 @@ Listar Veículos: Exibe todos os veículos que estão atualmente estacionados.
 Encerrar: Finaliza a execução do programa.
 
 🔗 Links
+Meu Repositório do Projeto: [https://github.com/MarcioGil/EstacionamentoApp.git]
 
-Meu Repositório do Projeto: [github.com/marcio-gil/EstacionamentoApp]
-
-Meu LinkedIn: [linkedin.com/in/márcio-gil-1b7669309]
+Meu LinkedIn: [https://www.linkedin.com/in/marcio-gil-760137169]
